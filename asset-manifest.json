@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/singh123shubham/NFTLandingPage/static/css/main.42cc9f64.css",
+    "main.js": "/singh123shubham/NFTLandingPage/static/js/main.57aeeec3.js",
+    "static/media/img.jpg": "/singh123shubham/NFTLandingPage/static/media/img.a1882c37fe8be964d145.jpg",
+    "index.html": "/singh123shubham/NFTLandingPage/index.html",
+    "main.42cc9f64.css.map": "/singh123shubham/NFTLandingPage/static/css/main.42cc9f64.css.map",
+    "main.57aeeec3.js.map": "/singh123shubham/NFTLandingPage/static/js/main.57aeeec3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42cc9f64.css",
+    "static/js/main.57aeeec3.js"
+  ]
+}
